@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.openimaj:image-feature-extraction:1.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-feature-extraction/1.3.6/18366d8475b95ade18aad6413a1ba464fa4be2d0/image-feature-extraction-1.3.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.openimaj/image-feature-extraction/1.3.6/61f66ba03ae18e5384f67682e275f92c6a41becc/image-feature-extraction-1.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

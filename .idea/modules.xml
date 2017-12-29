@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swt.iml" filepath="$PROJECT_DIR$/.idea/modules/swt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/swt_main.iml" group="swt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/swt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/swt_test.iml" group="swt" />
+    </modules>
+  </component>
+</project>

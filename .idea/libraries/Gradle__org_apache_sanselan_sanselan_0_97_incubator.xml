@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.sanselan:sanselan:0.97-incubator">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.sanselan/sanselan/0.97-incubator/8396778b076a2eaf62024b64f6d924e4e0095fca/sanselan-0.97-incubator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.sanselan/sanselan/0.97-incubator/d5a8a6b5f49dc3cbbf5b5905c5e8620f47a034d5/sanselan-0.97-incubator-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

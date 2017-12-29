@@ -1,0 +1,18 @@
+apply plugin: 'idea'
+apply plugin: 'application'
+
+mainClassName = "Main"
+
+repositories{
+    maven { url "http://maven.openimaj.org/" }
+    mavenCentral()
+}
+
+dependencies {
+    // Local libraries
+    compile fileTree('libs')
+    compile group: 'org.openimaj', name: 'image-feature-extraction', version: '1.3.6'
+
+}
+
+

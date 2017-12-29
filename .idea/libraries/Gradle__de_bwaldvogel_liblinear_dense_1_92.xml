@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: de.bwaldvogel:liblinear-dense:1.92">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.bwaldvogel/liblinear-dense/1.92/e59ceddf292f81b554cf10eb3b27ba8732ed43f9/liblinear-dense-1.92.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.bwaldvogel/liblinear-dense/1.92/ec87df4d41c3edc0a7d0eb06bbc5bfca0209f71b/liblinear-dense-1.92-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sourceforge.jmatio:jmatio:1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.jmatio/jmatio/1.2/a9f6aef2e9629f401769a655151a7d913d3eb8d8/jmatio-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.sourceforge.jmatio/jmatio/1.2/4d615fc252e2ef37ea75f59c6ba0bbc1e4c19987/jmatio-1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
